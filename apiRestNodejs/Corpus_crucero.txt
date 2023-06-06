@@ -1,0 +1,11 @@
+El CRUD para reservas en nuestro casino es una herramienta que te permite gestionar de manera eficiente y efectiva tus reservas. Puedes registrar diferentes datos importantes, como la fecha de la reserva, el n�mero de invitados, el tipo de evento, el costo, los comentarios y el estado de la reserva (activo o inactivo).
+
+Cuando deseas hacer una reserva, simplemente proporcionas la fecha en la que te gustar�a reservar, el n�mero de invitados que asistir�n, el tipo de evento que est�s organizando y cualquier comentario adicional que desees compartir. Con esta informaci�n, nuestro sistema generar� una cotizaci�n basada en el costo y los servicios adicionales que elijas.
+
+Una vez que se completa la reserva, puedes verificar el estado de la misma, que puede ser activo o inactivo. Esto te permite mantener un control preciso sobre las reservas en todo momento.
+
+Adem�s, nuestro CRUD te brinda la capacidad de realizar modificaciones en las reservas existentes. Puedes actualizar la fecha, el n�mero de invitados, el tipo de evento, los comentarios o el estado de la reserva seg�n sea necesario. Esto te proporciona flexibilidad y te permite adaptar tus planes de acuerdo a tus necesidades.
+
+En resumen, nuestro CRUD para reservas en el casino te ofrece una forma conveniente y eficaz de gestionar tus reservas. Puedes registrar, cotizar, actualizar y controlar el estado de tus reservas, brind�ndote un control total sobre tus eventos en el casino."
+
+Espero que este texto cumpla con tus expectativas. Si tienes alguna otra solicitud o alguna otra forma en la que pueda ayudarte, por favor av�same.
