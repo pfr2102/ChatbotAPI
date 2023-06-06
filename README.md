@@ -5,7 +5,9 @@ El chatbot de apoyo proporciona una interfaz interactiva para que los usuarios i
 
 Por otro lado, la API del CRUD implementada en Node.js permite realizar las operaciones de creación, lectura, actualización y eliminación de datos en la base de datos. Proporciona endpoints y funciones para interactuar con los datos de forma eficiente y segura.
 
-![Image text](https://media.discordapp.net/attachments/863941384587444305/1107841385857568778/image.png?width=1205&height=630)
+![Image text](https://github.com/pfr2102/ChatbotAPI/blob/main/img/Captura.PNG)
+=======
+![Image text](https://github.com/pfr2102/ChatbotAPI/blob/main/img/lol.PNG)
 =======
 
 "CRUD Chatbot API: Una solución Python-Node.js para gestionar datos con un chatbot de apoyo. Interfaz interactiva, NLP y operaciones CRUD eficientes. ¡Facilita la interacción y el manejo de datos!"
