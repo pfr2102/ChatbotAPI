@@ -13,6 +13,6 @@ Por otro lado, la API del CRUD implementada en Node.js permite realizar las oper
 
 [![Alt text](https://i9.ytimg.com/vi_webp/fvq7xTYWyYU/mq2.webp?sqp=CIjd-6MG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEggZShIMA8=&rs=AOn4CLAWcUk1o7qOQKeq4O67rzwIcpLIoQ)](https://youtu.be/fvq7xTYWyYU)
 
-(https://youtu.be/fvq7xTYWyYU)
+([https://youtu.be/fvq7xTYWyYU](https://youtu.be/fvq7xTYWyYU))
 
 "CRUD Chatbot API: Una solución Python-Node.js para gestionar datos con un chatbot de apoyo. Interfaz interactiva, NLP y operaciones CRUD eficientes. ¡Facilita la interacción y el manejo de datos!"
